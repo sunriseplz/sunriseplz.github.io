@@ -1,0 +1,32 @@
+.custom-input {
+    position: relative;
+}
+
+
+.custom-input__field {
+    background: none;
+    border: none;
+    width: 560px;
+    font-size: 24px;
+    line-height: 20px;
+    font-weight: 400;
+    color: #FFFFFF;
+    border-bottom: 3px solid #d87093;
+    border-radius: 5px;
+    outline: none;
+    padding: 10px;
+}
+
+.custom-input__label {
+    position: absolute;
+    right: -90px;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: #d87093;
+    padding: 18px;
+    border-radius: 5px;
+}
+
+.custom-input__link {
+    cursor: pointer;
+}

@@ -1,0 +1,12 @@
+@import "global/fonts.css";
+@import "global/reboot.css";
+@import "global/container.css";
+@import "blocks/header.css";
+@import "blocks/page-content.css";
+@import "blocks/footer.css";
+@import "blocks/product-list.css";
+@import "blocks/catalog.css";
+@import "blocks/arhievements.css";
+@import "blocks/info-cards.css";
+@import "blocks/home-page.css";
+@import "blocks/custom-input.css";

@@ -1,0 +1,30 @@
+.home-page__title {
+    font-size: 30px;
+    line-height: 20px;
+    font-weight: 500;
+    color: #26aa9a;
+    border-bottom: 2px solid #26aa9a;
+    padding: 18px;
+    border-radius: 10px;
+}
+
+.home-page__top {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    margin: 0 0 40px;
+}
+
+.home-page__right {
+    padding: 0 0 0 280px;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+
+.home-page__link {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    color: #d87093;
+}
